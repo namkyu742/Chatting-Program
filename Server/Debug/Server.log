@@ -1,0 +1,8 @@
+﻿  Server.c
+C:\Users\namky\OneDrive\바탕 화면\Computer_Network_Thread_Chatting_Program - 조태연 - 05-24\Server\Server.c(63,77): warning C4020: 'inet_ntoa': 실제 매개 변수가 너무 많습니다.
+C:\Users\namky\OneDrive\바탕 화면\Computer_Network_Thread_Chatting_Program - 조태연 - 05-24\Server\Server.c(63,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\namky\OneDrive\바탕 화면\Computer_Network_Thread_Chatting_Program - 조태연 - 05-24\Server\Server.c(63,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\namky\OneDrive\바탕 화면\Computer_Network_Thread_Chatting_Program - 조태연 - 05-24\Server\Server.c(63,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\namky\OneDrive\바탕 화면\Computer_Network_Thread_Chatting_Program - 조태연 - 05-24\Server\Server.c(116,27): warning C4047: '==': 'SOCKET'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\namky\OneDrive\바탕 화면\Computer_Network_Thread_Chatting_Program - 조태연 - 05-24\Server\Server.c(110,1): warning C4047: '초기화 중': 'SOCKET'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  Server.vcxproj -> C:\Users\namky\OneDrive\바탕 화면\Computer_Network_Thread_Chatting_Program - 조태연 - 05-24\Debug\Server.exe
